@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/siraj343/DSA/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/siraj343/DSA/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/siraj343/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
