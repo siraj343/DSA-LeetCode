@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/siraj343/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siraj343/DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/siraj343/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/siraj343/DSA/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/siraj343/DSA/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/siraj343/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/siraj343/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/siraj343/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/siraj343/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/siraj343/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/siraj343/DSA/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/siraj343/DSA/tree/master/1480-running-sum-of-1d-array) |
