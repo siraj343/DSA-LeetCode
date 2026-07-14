@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siraj343/DSA/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/siraj343/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/siraj343/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/siraj343/DSA/tree/master/0485-max-consecutive-ones) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/siraj343/DSA/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/siraj343/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
