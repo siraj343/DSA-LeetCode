@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/siraj343/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siraj343/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/siraj343/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/siraj343/DSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/siraj343/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/siraj343/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/siraj343/DSA/tree/master/0283-move-zeroes) |
@@ -67,13 +68,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siraj343/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/siraj343/DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/siraj343/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siraj343/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/siraj343/DSA/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/siraj343/DSA/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/siraj343/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/siraj343/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
