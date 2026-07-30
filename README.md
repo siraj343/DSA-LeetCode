@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/siraj343/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siraj343/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/siraj343/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/siraj343/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/siraj343/DSA/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/siraj343/DSA/tree/master/2235-add-two-integers) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siraj343/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siraj343/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/siraj343/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/siraj343/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/siraj343/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siraj343/DSA/tree/master/0088-merge-sorted-array) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/siraj343/DSA/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/siraj343/DSA/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
