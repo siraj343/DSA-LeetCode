@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/siraj343/DSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/siraj343/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/siraj343/DSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/siraj343/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/siraj343/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siraj343/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/siraj343/DSA/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/siraj343/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/siraj343/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/siraj343/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siraj343/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/siraj343/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/siraj343/DSA/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/siraj343/DSA/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/siraj343/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
