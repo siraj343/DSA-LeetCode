@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/siraj343/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siraj343/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/siraj343/DSA/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/siraj343/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siraj343/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/siraj343/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/siraj343/DSA/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/siraj343/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
