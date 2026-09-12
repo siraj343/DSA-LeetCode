@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/siraj343/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0509-fibonacci-number](https://github.com/siraj343/DSA/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/siraj343/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siraj343/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/siraj343/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/siraj343/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siraj343/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siraj343/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/siraj343/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siraj343/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siraj343/DSA/tree/master/0268-missing-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siraj343/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siraj343/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/siraj343/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/siraj343/DSA/tree/master/0268-missing-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siraj343/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
