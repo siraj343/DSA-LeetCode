@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/siraj343/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/siraj343/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/siraj343/DSA/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/siraj343/DSA/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/siraj343/DSA/tree/master/2235-add-two-integers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siraj343/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/siraj343/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/siraj343/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
