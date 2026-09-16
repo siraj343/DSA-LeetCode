@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siraj343/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/siraj343/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/siraj343/DSA/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/siraj343/DSA/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siraj343/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/siraj343/DSA/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/siraj343/DSA/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
