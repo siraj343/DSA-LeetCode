@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/siraj343/DSA/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/siraj343/DSA/tree/master/0443-string-compression) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/siraj343/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/siraj343/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siraj343/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/siraj343/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/siraj343/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
