@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/siraj343/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siraj343/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/siraj343/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/siraj343/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/siraj343/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/siraj343/DSA/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/siraj343/DSA/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/siraj343/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/siraj343/DSA/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/siraj343/DSA/tree/master/0443-string-compression) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siraj343/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/siraj343/DSA/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/siraj343/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/siraj343/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/siraj343/DSA/tree/master/0229-majority-element-ii) |
