@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/siraj343/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/siraj343/DSA/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/siraj343/DSA/tree/master/0443-string-compression) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siraj343/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/siraj343/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/siraj343/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/siraj343/DSA/tree/master/0835-image-overlap) |
 | [1480-running-sum-of-1d-array](https://github.com/siraj343/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siraj343/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/siraj343/DSA/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/siraj343/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siraj343/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
