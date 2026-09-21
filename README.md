@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/siraj343/DSA/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/siraj343/DSA/tree/master/0443-string-compression) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siraj343/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/siraj343/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/siraj343/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/siraj343/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/siraj343/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siraj343/DSA/tree/master/0229-majority-element-ii) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/siraj343/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Binary Search
 |  |
 | ------- |
