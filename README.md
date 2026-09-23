@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/siraj343/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/siraj343/DSA/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/siraj343/DSA/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/siraj343/DSA/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/siraj343/DSA/tree/master/0899-orderly-queue) |
 | [1544-make-the-string-great](https://github.com/siraj343/DSA/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/siraj343/DSA/tree/master/1657-determine-if-two-strings-are-close) |
