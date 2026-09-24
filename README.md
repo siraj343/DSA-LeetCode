@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/siraj343/DSA/tree/master/0899-orderly-queue) |
 | [2235-add-two-integers](https://github.com/siraj343/DSA/tree/master/2235-add-two-integers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siraj343/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siraj343/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/siraj343/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siraj343/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siraj343/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siraj343/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
