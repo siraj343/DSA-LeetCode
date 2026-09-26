@@ -8,7 +8,7 @@ public:
         for (int i = 0; i<n; i++) {
             if(operations[i] == "++X" || operations[i] == "X++"){
                 score++;
-            } else if (operations[i] == "--X" || operations[i] == "X--"){
+            } else {
                 score--;
             }
         }
