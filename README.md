@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/siraj343/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/siraj343/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/siraj343/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/siraj343/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/siraj343/DSA/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/siraj343/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/siraj343/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siraj343/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/siraj343/DSA/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/siraj343/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/siraj343/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siraj343/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siraj343/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/siraj343/DSA/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/siraj343/DSA/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/siraj343/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siraj343/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/siraj343/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
