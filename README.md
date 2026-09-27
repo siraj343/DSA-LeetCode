@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/siraj343/DSA/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/siraj343/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/siraj343/DSA/tree/master/0520-detect-capital) |
+| [0859-buddy-strings](https://github.com/siraj343/DSA/tree/master/0859-buddy-strings) |
 | [0899-orderly-queue](https://github.com/siraj343/DSA/tree/master/0899-orderly-queue) |
 | [1544-make-the-string-great](https://github.com/siraj343/DSA/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/siraj343/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/siraj343/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siraj343/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/siraj343/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0859-buddy-strings](https://github.com/siraj343/DSA/tree/master/0859-buddy-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/siraj343/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/siraj343/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
