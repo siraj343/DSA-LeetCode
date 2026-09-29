@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/siraj343/DSA/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/siraj343/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/siraj343/DSA/tree/master/0125-valid-palindrome) |
+| [0316-remove-duplicate-letters](https://github.com/siraj343/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/siraj343/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/siraj343/DSA/tree/master/0520-detect-capital) |
 | [0859-buddy-strings](https://github.com/siraj343/DSA/tree/master/0859-buddy-strings) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/siraj343/DSA/tree/master/0316-remove-duplicate-letters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/siraj343/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Geometry
 |  |
@@ -201,5 +203,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/siraj343/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1544-make-the-string-great](https://github.com/siraj343/DSA/tree/master/1544-make-the-string-great) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/siraj343/DSA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
