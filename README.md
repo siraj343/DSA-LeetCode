@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/siraj343/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/siraj343/DSA/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/siraj343/DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/siraj343/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siraj343/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/siraj343/DSA/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/siraj343/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/siraj343/DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/siraj343/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/siraj343/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/siraj343/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/siraj343/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/siraj343/DSA/tree/master/0268-missing-number) |
 | [0899-orderly-queue](https://github.com/siraj343/DSA/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/siraj343/DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/siraj343/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/siraj343/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siraj343/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
