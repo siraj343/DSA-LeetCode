@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siraj343/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/siraj343/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siraj343/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/siraj343/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siraj343/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siraj343/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siraj343/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/siraj343/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siraj343/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siraj343/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/siraj343/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
